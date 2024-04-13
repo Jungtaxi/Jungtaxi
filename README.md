@@ -36,14 +36,3 @@ AI Tech 6기, CV 도메인
 <p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
 <br>
 
-## Contact
-<p>
-  <a href="https://callmescone.tistory.com/">
-      <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://callmescone.tistory.com/"
-          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a href="https://beagentleman7@gmail.com">
-      <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://beagentleman7@gmail.com"
-          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-</p>
