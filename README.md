@@ -1,6 +1,11 @@
 
 ## 👨‍💻 Work Experience
 
+### (주)업스테이지
+2024.7.08 ~ 2024.10.07
+AI Research Engineer Intern, AI Solution ModelOps team
+- 정보 추출 모델 개선
+
 ### (주)디바인테크놀로지
 2022.11.01 ~ 2023.04.30
 Researcher, SW team
