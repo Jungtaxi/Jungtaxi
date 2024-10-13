@@ -4,6 +4,7 @@
 ### (주)업스테이지
 2024.7.08 ~ 2025.1.07
 AI Research Engineer Intern, AI Solution ModelOps team
+- 사내 합성 데이터 툴 개발
 - 정보 추출 모델 개선
 
 ### (주)디바인테크놀로지
