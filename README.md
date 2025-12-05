@@ -1,8 +1,8 @@
-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ee289e4-1ca2-4453-8cd4-63b7dea02994" />
 ## 👨‍💻 Work Experience
 
 ### (주)뤼튼
-2025.05.07 ~
+2025.05.07 ~ 2025.09.30
 AI Engineer Intern
 
 ### (주)업스테이지
@@ -38,3 +38,5 @@ AI Tech 6기, CV 도메인
 <p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
 <br>
 
+## ☕ 백준
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=callmescone)](https://solved.ac/callmescone)
