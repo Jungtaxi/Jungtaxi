@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ee289e4-1ca2-4453-8cd4-63b7dea02994" />
 ## 👨‍💻 Work Experience
 
 ### (주)뤼튼
